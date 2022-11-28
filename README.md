@@ -1,1 +1,1 @@
-# Skyblock-Throne and Spiral Finder!
+# Throne and Spiral Finder!
