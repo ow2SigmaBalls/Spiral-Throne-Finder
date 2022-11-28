@@ -2,7 +2,7 @@
 
 A Skyblock Mod.
 ## Commands
-  - /me spiral - 
+  - `/me spiral` 
   - /me throne
   - /me waypoints
   - /me rubypath
