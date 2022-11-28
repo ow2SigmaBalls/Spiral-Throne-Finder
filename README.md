@@ -1,1 +1,1 @@
-# Throne and Spiral Finder!
+# Spiral and Throne Finder!
