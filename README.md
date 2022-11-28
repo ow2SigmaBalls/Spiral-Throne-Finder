@@ -1,4 +1,4 @@
-## Spiral and Throne Finder!
+# Spiral and Throne Finder!
 
-# Social
+## Social
 - Discord Server Link
