@@ -13,4 +13,4 @@ A Skyblock Mod.
 ## Social
 - Discord Server Link
 - 
-![image](https://user-images.githubusercontent.com/117566457/204283943-dee003ad-bf99-4820-bd21-9233fda28168.png)
+![image](https://user-images.githubusercontent.com/117566457/204283943-dee003ad-bf99-4820-bd21-9233fda28168.png =250x250)
