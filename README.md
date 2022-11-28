@@ -1,10 +1,11 @@
-# Spiral and Throne Finder!
+# Mining Extras
 
 A Skyblock Mod.
 ## Commands
-  din mamam
-  din pappao
-  felix
+  - /me spiral
+  - /me throne
+  - /me waypoints
+  - /me rubypath
 
 ## Social
 - Discord Server Link
